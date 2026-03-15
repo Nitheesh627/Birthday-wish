@@ -4,7 +4,7 @@ font-family:'Segoe UI';
 min-height:100vh;
 min-width:600px;
 
-background-image:url(./images/cake.png),url(./images/cake.png);
+background-image:url(./cake.png),url(./cake.png);
 background-color:#c88cfc;
 
 background-position:left top,right top;
