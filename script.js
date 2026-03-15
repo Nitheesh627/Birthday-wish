@@ -33,7 +33,7 @@ blowBtn.style.display="inline-block";
 
 msg.innerText="Click Blow Candle 🎂";
 
-audio.src="./audios/introMusic.mp3";
+audio.src="./introMusic.mp3";
 audio.play();
 
 }
@@ -60,7 +60,7 @@ msg5.innerText="Enjoy every moment today 🎉";
 msg6.innerText="Best wishes from your friend";
 msg7.innerText="Be successful🌏";
 
-audio.src="./audios/endMusic.mp3";
+audio.src="./endMusic.mp3";
 audio.loop=true;
 audio.play();
 
